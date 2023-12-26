@@ -1,0 +1,1 @@
+I'm a current 3rd year PhD student in Applied Math at the University of Washington. Broadly, I'm interested machine learning, optimal transport, and variational analysis. I'm advised by [Bamdad Hosseini](https://bamdadhosseini.org/)
