@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Washington</a>
+subtitle: <a href='https://amath.washington.edu/'>University of Washington</a>
 
 profile:
   align: left
