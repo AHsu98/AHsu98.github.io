@@ -5,18 +5,13 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a current 3rd year PhD student in Applied Math at the University of Washington. Broadly, I'm interested machine learning, optimal transport, and variational analysis. I'm advised by [Bamdad Hosseini](https://bamdadhosseini.org/)
+I'm a 3rd year PhD student in Applied Math at the University of Washington advised by [Bamdad Hosseini](https://bamdadhosseini.org/). I work on problems in optimal transport and variational analysis with applications in machine learning. I also work with the [IHME](https://www.healthdata.org/) to develop better statistical methods for aggregating large scale longitudinal data to improve estimates in global health. 
+
+Previously, I did a joint bachelors/masters at Claremont McKenna College and Claremont Graduate University, majoring in Mathematics with a minor in Computer Science, and obtaining a masters in Applied and Computational Mathematics. 
