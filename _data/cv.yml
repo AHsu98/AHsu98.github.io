@@ -8,10 +8,10 @@
   type: time_table
   contents:
     - degree: PhD in Applied Math
-      institution: University of Washington, Seattle, Washingotn
+      institution: University of Washington, Seattle, Washington
       year: 2021-Present
       description:
-        -Advised by Bamdad Hosseini
+        - Advised by Bamdad Hosseini
 
     - degree: MS in Applied and Computational Mathematics
       institution: Claremont Graduate University
@@ -30,9 +30,7 @@
       institution: Institute for Health Metrics and Evaluation
       year: 2022-Present
       description:
-        - I work for the Math Sciences and Computational Algorithms 
-        team to provide support to modelers, 
-        as well as develop new statistical tools and ideas for modeling disease.
+        - I work for the Math Sciences and Computational Algorithms team to provide support to modelers, as well as develop new statistical tools and ideas for modeling disease.
     - title: Machine Learning Engineer
       institution: Yelp Inc.
       year: 2020-2021
@@ -40,7 +38,7 @@
         - Improved model for customer retention using XGBoost with proportional hazards
         - Developed and implemented improved statistical estimators for retention predictions
         - Built and launched experiments for uplift models for making budget recommendations that directly optimize revenue
-        - Applied causal inference techniques to better understand the relationship between pricing, conversion and retention
+        - Applied causal inference techniques to better understand the relationship between pricing, conversion, and retention
 
 - title: Honors and Awards
   type: time_table
@@ -65,6 +63,7 @@
 #       items:
 #         - Description 1.
 #         - Description 2.
+
 - title: Other Interests
   type: list
   contents:
