@@ -11,16 +11,20 @@
       institution: University of Washington, Seattle, Washington
       year: 2021-Present
       description:
+        - PhD in Applied Math
         - Advised by Bamdad Hosseini
 
     - degree: MS in Applied and Computational Mathematics
       institution: Claremont Graduate University
       year: 2020
+      description:
+        - MS in Applied and Computational Mathematics
 
     - degree: BA in Mathematics
       institution: Claremont McKenna College
       year: 2016-2020
       description:
+        - BA in Mathematics
         - Minor in Computer Science
 
 - title: Experience
