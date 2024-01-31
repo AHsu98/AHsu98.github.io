@@ -10,7 +10,8 @@
     - degree: PhD in Applied Math
       institution: University of Washington, Seattle, Washingotn
       year: 2021-Present
-      advisor: Bamdad Hosseini
+      description:
+        -Advised by Bamdad Hosseini
 
     - degree: MS in Applied and Computational Mathematics
       institution: Claremont Graduate University
