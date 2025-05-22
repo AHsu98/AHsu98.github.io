@@ -6,6 +6,9 @@ description: Courses that I've TA'd for
 nav: true
 nav_order: 6
 ---
+- **Winter 2025:** TA for Convex Optimization (AMATH515)
+
+- **Fall 2024:** TA for Ordinary Differential Equations (AMATH351)
 
 - **Winter 2024:** TA for Convex Optimization (AMATH515)
 
