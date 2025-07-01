@@ -16,4 +16,4 @@ I'm a 4th year PhD candidate in Applied Math at the University of Washington adv
 
 Previously, I did a joint bachelors/masters at Claremont McKenna College and Claremont Graduate University, majoring in Mathematics with a minor in Computer Science, and obtaining a masters in Applied and Computational Mathematics. In the past, I've worked on covering problems in discrete geometry and theoretical neuroscience from the lens of recurrent networks.
 
-The best way to reach me is via email at owlx@uw.edu
+The best way to reach me is via email at owlx@uw.edu.
