@@ -47,6 +47,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+       - Carl E. Pearson Fellowship for outstanding work by a PhD student in the Department of Applied Mathematics
     - year: 2023
       items: 
         - Boeing Excellence Award for Research in Applied Math
@@ -72,5 +75,5 @@
   type: list
   contents:
     - Olympic Weightlifting
-    - Playing the piano
+    - Classical piano
     - Judo
