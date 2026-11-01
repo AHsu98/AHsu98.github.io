@@ -9,9 +9,9 @@
   contents:
     - degree: PhD in Applied Math
       institution: University of Washington, Seattle, Washington
-      year: 2021-Present
+      year: 2021-2026
       description:
-        - PhD Candidate in Applied Math
+        - PhD in Applied Math
         - Advised by Bamdad Hosseini and Sasha Aravkin
 
     - degree: MS in Applied and Computational Mathematics
@@ -30,11 +30,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: NSF Mathematical Sciences Postdoctoral Research Fellow
+      institution: Courant Institute of Mathematical Sciences, New York University
+      year: 2026-Present
+      description:
+        - Mentored by Andrew Stuart
     - title: Graduate Student Researcher
       institution: Institute for Health Metrics and Evaluation
-      year: 2022-Present
+      year: 2022-2025
       description:
-        - I work for the Math Sciences and Computational Algorithms team to provide support to modelers, as well as develop new statistical tools and ideas for modeling disease.
+        - I worked for the Math Sciences and Computational Algorithms team to provide support to modelers, as well as develop new statistical tools and ideas for modeling disease.
+        - I developed a custom Gaussian process regression package that scales to millions of observations and predictions across time, location and demographics.
     - title: Machine Learning Engineer
       institution: Yelp Inc.
       year: 2020-2021
@@ -47,6 +53,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+       - NSF Mathematical Sciences Postdoctoral Research Fellowship
     - year: 2025
       items:
        - Carl E. Pearson Fellowship for outstanding work by a PhD student in the Department of Applied Mathematics

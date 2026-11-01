@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-description: CV Updated Jan 2024
+description: CV Updated Nov 2026
 toc:
   sidebar: left
 ---
